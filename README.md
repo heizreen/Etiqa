@@ -2,6 +2,7 @@
 Technical Assessment (Etiqa)
 
 Description
+
 The web consists of 3 components which are
 1. FreelancerComponent (Get List and Delete)
 2. FreelancerDetailComponent (Update)
@@ -19,3 +20,10 @@ How to Run the code manually
 •	First Terminal: cd backend and run npm dev run
 •	Second Terminal: cd frontend and run ng serve –open
 4.	You’ll redirected to browser and happy testing!
+
+Reference
+
+1. How to Run - https://youtu.be/KT2UrA2xIz8
+2. Frontend Demo - https://youtu.be/anztL0yw8Sk
+3. Database - https://youtu.be/Jc80jqR4qEo
+
